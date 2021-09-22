@@ -17,3 +17,33 @@ html { box-sizing: border-box; }
 body {
 	background-color: #bdc3c7;
 }
+
+h1 {
+	font-size: 25px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.foto {
+	width: 250px;
+	position: relative;
+	top: -20px;
+	left: -20px;
+}
+
+.logo {
+	background-color: #b92e81;
+	border-radius: 50%;
+	position: absolute;
+	top: 140px;
+	left: 175px;
+}
+
+.profil {
+	background-color: #31363b;
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+	width: 250px;
+	padding: 20px;
+	position: relative;
+	margin: 40px;
+} 
